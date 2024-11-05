@@ -3,6 +3,8 @@
 ### Steps to Run the App
 Pull the repo and build on xcode simulator. Minimum deployment version is 16.6.
 
+Quick note: There is a pull to refresh on the list to satisfy the refresh functionality requirement.
+
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 I focused mostly on performance, functionality, and test coverage while leaving the UI as barebones as possible.
 I chose this because UI generally just takes me longer to get done. I also wanted to demonstrate a version that
